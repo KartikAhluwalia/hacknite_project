@@ -38,8 +38,8 @@ To set up the project locally, follow these steps:
 ## Usage
 
 After installing the necessary dependencies, you can utilize the various modules as needed. For example, to perform OCR on an image:
-    ```bash
-
+    
+    
     python paddle_ocr.py path/to/image.jpg
 
     
