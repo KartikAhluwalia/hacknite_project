@@ -39,6 +39,8 @@ To set up the project locally, follow these steps:
 
 After installing the necessary dependencies, you can utilize the various modules as needed. For example, to perform OCR on an image:
     ```bash
+
     python paddle_ocr.py path/to/image.jpg
 
+    
 Similarly, other scripts can be executed to preprocess data, interact with APIs, and generate ADR recommendations. Ensure that you have the appropriate API keys and access credentials for the external services used in this project.
