@@ -25,3 +25,14 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/KartikAhluwalia/hacknite_project.git
+2. Navigate to Project Directory
+   ```bash
+   cd hacknite_project
+3. Install Dependencies: It's recommended to use a virtual environment to manage dependencies.
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install -r requirements.txt
+
+
