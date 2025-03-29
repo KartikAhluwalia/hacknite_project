@@ -1,3 +1,1 @@
-# hacknite_project
-
-## AI Powered Ed-Tech Platform
+# Health care ADR recommendation
